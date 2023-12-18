@@ -6,5 +6,5 @@
 
 ## 📬 Contact me
 - Twitter: [xAbdoAT](https://twitter.com/xAbdoAT)
-- Discord: [JustVex™#4206](https://discord.gg/A3ugy7GVVv)
-- Telegram Channel [here](https://t.me/iAppMods) 
+- Discord: [JustVex#4206](https://discord.gg/A3ugy7GVVv)
+- Telegram Channel [here](https://t.me/iAppMods)
