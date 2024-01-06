@@ -2,17 +2,19 @@
 
 <div>
   <h3>Experienced in...</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,css" 
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css" 
        title="Python, Java, JavaScript,cpp,html and css."/>
 
 <br>
 <div>
   <h3>Looking forward to learn...</h3>
   <img src="https://skillicons.dev/icons?i=blender,swift,react,mysql"
-       title="blender, swift, React.js and SQL."/>
+       title="blender, swift, React.js and SQL"/>
 </div>
 
-##
+##  
+### Statistics  
+
 <a href="https://github.com/xabdoat">  
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xabdoat&count_private=true&layout=compact&langs_count=7&count_private=true&theme=transparent"/>  
   <img height="180rem" src="https://streak-stats.demolab.com/?user=xabdoat&theme=transparent"/>
