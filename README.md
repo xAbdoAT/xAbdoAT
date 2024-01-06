@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Abdo AT</h1>
 
+<div>
+  <h3>Experienced in...</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,css" 
+       title="Python, Java, JavaScript,cpp,html and css."/>
 
+<br>
+<div>
+  <h3>Looking forward to learn...</h3>
+  <img src="https://skillicons.dev/icons?i=blender,swift,react,mysql"
+       title="blender, swift, React.js and SQL."/>
+</div>
 
+##
 <a href="https://github.com/xabdoat">  
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=xabdoat&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=transparent" alt="xabdoat" />
   <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=xabdoat&theme=dark&background=transparent" alt="xabdoat" />
 </a>
 
-
-
-
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xabdoat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xabdoat" height="30" width="40" /></a>
 </p>
+
+##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xabdoat&label=Profile%20views&color=0e75b6&style=flat" alt="xabdoat" /> </p>
