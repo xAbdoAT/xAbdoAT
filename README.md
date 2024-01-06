@@ -14,9 +14,10 @@
 
 ##
 <a href="https://github.com/xabdoat">  
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=xabdoat&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=transparent" alt="xabdoat" />
-  <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=xabdoat&theme=dark&background=transparent" alt="xabdoat" />
-</a>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xabdoat&count_private=true&layout=compact&langs_count=7&count_private=true&theme=transparent"/>  
+  <img height="180rem" src="https://streak-stats.demolab.com/?user=xabdoat&theme=transparent"/>
+</a>  
+
 
 ##
 <h3 align="left">Connect with me:</h3>
