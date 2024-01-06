@@ -6,11 +6,18 @@
        title="Python,cpp, Java, JavaScript,cpp,html and css."/>
 
 <br>
-<div>
+<div style="text-align: center;">
   <h3>Looking forward to learn...</h3>
-  <img src="https://skillicons.dev/icons?i=blender,swift,react,mysql"
-       title="blender, swift, React.js and SQL"/>
+  <img src="https://skillicons.dev/icons?i=blender,swift,react,mysql" 
+       title="blender, swift, React.js and SQL" />
 </div>
+<br>
+<div style="text-align: center;">
+  <img src="" 
+       alt="Wall2" 
+       style="width: 100%; max-width: 1000px;" />
+</div>
+
 
 ##  
 ### Statistics  
