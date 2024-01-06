@@ -2,8 +2,8 @@
 
 <div>
   <h3>Experienced in...</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css" 
-       title="Python, Java, JavaScript,cpp,html and css."/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=3" 
+       title="Python,cpp, Java, JavaScript,cpp,html and css."/>
 
 <br>
 <div>
