@@ -7,7 +7,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xabdoat&show_icons=true&locale=en" alt="xabdoat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xabdoat&" alt="xabdoat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xabdoat&" alt="xabdoat&theme=transparen" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
