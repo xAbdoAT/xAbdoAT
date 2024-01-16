@@ -18,6 +18,14 @@
        style="width: 100%; max-width: 1000px;" />
 </div>
 
+##
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/xabdoat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xabdoat" height="30" width="40" /></a>
+</p>
+
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xabdoat&label=Profile%20views&color=0e75b6&style=flat" alt="xabdoat" /> </p>
 
 ##  
 ### Statistics  
@@ -28,11 +36,4 @@
 </a>  
 
 
-##
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xabdoat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xabdoat" height="30" width="40" /></a>
-</p>
 
-##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xabdoat&label=Profile%20views&color=0e75b6&style=flat" alt="xabdoat" /> </p>
