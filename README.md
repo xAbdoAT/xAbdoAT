@@ -1,3 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://xabdoat.github.io)
+
+###
+
 <h2 align="left">Hi 👋! My name is Abdo and I'm a ..., from Libya</h2>
 
 ###
@@ -59,12 +63,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/xAbdoAT/xAbdoAT/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="450" src="https://images.pexels.com/photos/1624255/pexels-photo-1624255.jpeg"  />
-</div>
 
 ###
 
