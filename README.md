@@ -22,7 +22,7 @@
 - 🌱 &nbsp; I’m currently learning **low level systems programming and binary analysis.**
 - 👯 &nbsp; I’m looking to collaborate on **beginner friendly Python OSS projects.**
 - 🤔 &nbsp; I’m looking for help with **understanding best practices for writing clean and scalable code.**
-- 📫 &nbsp; How to reach me: **You can reach me on [Discord](https://discord.com/users/1207492559442681927) or [Telegram](https://t.me/AbdoAT).**
+- 📫 &nbsp; How to reach me: You can reach me on <a href="https://discord.com/users/1207492559442681927" target="_blank">Discord</a> or <a href="https://t.me/AbdoAT" target="_blank">Telegram</a>.
 - ⚡ &nbsp; Fun fact: **I once solved a major bug in my sleep.**
 
 <br clear="both"/>
@@ -83,17 +83,17 @@
   <a href="https://x.com/xAbdoAT" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/abdo-at-4a2233285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://discord.com/users/1207492559442681927" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  &nbsp;
   <a href="https://t.me/AbdoAT" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.youtube.com/@xAbdoAT" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
@@ -102,6 +102,7 @@
   <a href="https://ko-fi.com/abdoat" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
   </a>
+  &nbsp;
   <a href="https://patreon.com/AbdoAT" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
   </a>
