@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/xAbdoAT/assets/refs/heads/main/AbdoAT.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/xAbdoAT/xAbdoAT/refs/heads/main/assets/AbdoAT.gif">
 
 - 🔭 &nbsp; I’m currently working on **small projects in Swift and Python.**
 - 🌱 &nbsp; I’m currently learning **low level systems programming and binary analysis.**
