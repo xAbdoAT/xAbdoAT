@@ -39,24 +39,46 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=xAbdoAT&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&locale=en" alt="Abdo's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=xAbdoAT&theme=gotham&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=xAbdoAT&theme=gotham&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=xAbdoAT&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=xAbdoAT&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=xAbdoAT&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=xAbdoAT&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=xAbdoAT&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=xAbdoAT&theme=dark&hide_border=true" alt="GitHub Streak" height="170"/>
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=xAbdoAT&theme=github-dark&hide_border=true&area=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=xAbdoAT&theme=github&hide_border=true&area=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xAbdoAT&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  </picture>
 </div>
 
 <div align="center">
