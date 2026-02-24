@@ -1,4 +1,4 @@
-```markdown
+
 # ABDUL MUHAIMIN <3
 ===================
 
@@ -16,7 +16,7 @@ Connect With Me
 --------------
 Skills & Tools
 
-» Languages:    Python, Swift, JavaScript, TypeScript
+» Languages:    Python, C++, Swift, JavaScript, TypeScript
 » Frontend:     React, HTML5, CSS3
 » Backend:      Node.js
 » Databases:    MySQL, MongoDB, Firebase
@@ -54,14 +54,5 @@ Reach out if you want to collaborate on something awesome!
 Always open for a chat, tech talk, or helping out with open-source code.
 
 Catch you around the internet ✌️
-```
 
-<details>
-<summary>Support My Work 🎁</summary>
 
-```text
-» Ko-fi         → https://ko-fi.com/abdoat
-» Patreon       → https://patreon.com/AbdoAT
-```
-
-</details>
