@@ -4,14 +4,6 @@
 Information Technology Student & Aspiring Software Developer from Libya.  
 Currently learning low-level systems programming and binary analysis.  
 
----------------
-Connect With Me  
-
-» X / Twitter   → https://x.com/xAbdoAT  
-» LinkedIn      → https://www.linkedin.com/in/abdo-at-4a2233285/  
-» Discord       → https://discord.com/users/1207492559442681927  
-» Telegram      → https://t.me/AbdoAT  
-
 --------------
 Skills & Tools  
 
