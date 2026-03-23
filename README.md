@@ -1,8 +1,8 @@
-# ABDUL MUHAIMIN <3
+# ABDUL MUHAIMIN
 ===================
 
 Information Technology Student & Aspiring Software Developer from Libya.  
-Currently learning low-level systems programming and binary analysis.  
+Currently learning low level systems programming and binary analysis.  
 
 --------------
 Skills & Tools  
