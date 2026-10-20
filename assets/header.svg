@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180" width="100%" height="180" role="img" aria-label="Abdul Muhaimin (Abdo AT) — Systems &amp; Software Development">
+  <title>Abdul Muhaimin (@xAbdoAT)</title>
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#0F141D" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <!-- Subtle Accent Line: Blue -> Light Blue -> Lavender -->
+    <linearGradient id="bottomLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0" />
+      <stop offset="25%" stop-color="#58A6FF" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#79C0FF" stop-opacity="0.8" />
+      <stop offset="75%" stop-color="#D2A8FF" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#D2A8FF" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Monogram Accent Gradient -->
+    <linearGradient id="monoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="50%" stop-color="#79C0FF" />
+      <stop offset="100%" stop-color="#D2A8FF" />
+    </linearGradient>
+
+    <!-- Technical Micro Grid Pattern -->
+    <pattern id="headerGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#58A6FF" stroke-opacity="0.03" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', Menlo, Consolas, monospace;
+    }
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'SF Pro Display', Roboto, Helvetica, Arial, sans-serif;
+    }
+    .eyebrow {
+      font-size: 11px;
+      fill: #7EE787;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+    }
+    .name-title {
+      font-size: 30px;
+      font-weight: 700;
+      fill: #F0F6FC;
+      letter-spacing: -0.3px;
+    }
+    .handle-subtitle {
+      font-size: 13.5px;
+      fill: #58A6FF;
+      font-weight: 500;
+    }
+    .bio-line {
+      font-size: 13px;
+      fill: #8B949E;
+      font-weight: 400;
+      letter-spacing: 0.1px;
+    }
+    .badge-text {
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.4px;
+    }
+    .corner-bracket {
+      stroke: rgba(88, 166, 255, 0.2);
+      stroke-width: 1.2;
+      fill: none;
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="878" height="178" rx="12" fill="url(#headerBg)" stroke="#21262D" stroke-width="1" />
+  <rect x="1" y="1" width="878" height="178" rx="12" fill="url(#headerGrid)" />
+
+  <!-- Subtle Precision Corner Brackets -->
+  <polyline class="corner-bracket" points="10,24 10,10 24,10" />
+  <polyline class="corner-bracket" points="856,10 870,10 870,24" />
+  <polyline class="corner-bracket" points="10,156 10,170 24,170" />
+  <polyline class="corner-bracket" points="856,170 870,170 870,156" />
+
+  <!-- Monogram Emblem (AT) — Optically Centered in 84x84 Square -->
+  <g transform="translate(46, 48)">
+    <!-- Base Box -->
+    <rect width="84" height="84" rx="16" fill="#121721" stroke="#21262D" stroke-width="1" />
+    <rect x="5" y="5" width="74" height="74" rx="12" fill="none" stroke="url(#monoGrad)" stroke-width="1.2" stroke-opacity="0.4" />
+    
+    <!-- Optically Balanced & Centered AT Monogram -->
+    <!-- Geometric 'A' (Left leg x=21, Apex x=32, Right leg x=43) -->
+    <path d="M 21 58 L 32 26 L 43 58" fill="none" stroke="#F0F6FC" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- 'A' Crossbar (y=48, x=26 to 38) -->
+    <line x1="26" y1="48" x2="38" y2="48" stroke="#F0F6FC" stroke-width="2.4" stroke-linecap="round" />
+    
+    <!-- Geometric 'T' (Top bar x=41 to 63 at y=26, Stem x=52 at y=26 to 58) -->
+    <line x1="41" y1="26" x2="63" y2="26" stroke="#79C0FF" stroke-width="2.4" stroke-linecap="round" />
+    <line x1="52" y1="26" x2="52" y2="58" stroke="#79C0FF" stroke-width="2.4" stroke-linecap="round" />
+  </g>
+
+  <!-- Center Content Group -->
+  <g transform="translate(154, 44)">
+    <!-- Eyebrow -->
+    <text class="mono eyebrow" x="0" y="18">// SYSTEMS · AUTOMATION · RESEARCH</text>
+
+    <!-- Name & Handle -->
+    <text class="sans name-title" x="0" y="54">Abdul Muhaimin</text>
+    <text class="mono handle-subtitle" x="250" y="52">@xAbdoAT</text>
+
+    <!-- Subtitle / Positioning -->
+    <text class="sans bio-line" x="0" y="82">Information Technology student exploring systems programming and automation.</text>
+  </g>
+
+  <!-- Right Identity Detail: Minimal ~/xabdoat Motif with centered text -->
+  <g transform="translate(718, 73)">
+    <rect width="116" height="34" rx="7" fill="#121721" stroke="#21262D" stroke-width="1" />
+    <text class="mono badge-text" x="58" y="21" text-anchor="middle" dominant-baseline="middle">
+      <tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">/</tspan><tspan fill="#C9D1D9">xabdoat</tspan>
+    </text>
+  </g>
+
+  <!-- Bottom Accent Line (Subtle Blue to Lavender) -->
+  <rect x="44" y="178" width="792" height="1" fill="url(#bottomLine)" />
+</svg>
