@@ -34,7 +34,8 @@ I am interested in understanding how software operates from the binary up—expl
 
 * **Low-Level &amp; Systems**: Exploring native execution, memory structure, and binary fundamentals with **C**, **C++**, and **Swift**.
 * **Automation &amp; Scripting**: Writing utilities, API integrations, and bot workflows (Telegram &amp; Discord) with **Python** and **TypeScript / JavaScript**.
-* **Platforms &amp; Tooling**: Everyday development focused on **Linux** and **macOS** environments with disciplined version control via **Git**.
+* **Platforms &amp; Tooling**: Daily development workflows centered on **Windows** and **Linux**, with disciplined version control via **Git**.
+* **iOS &amp; Reverse Engineering**: Building iOS tools with **Swift**, researching binary structures, and exploring reverse engineering.
 
 <br/>
 
