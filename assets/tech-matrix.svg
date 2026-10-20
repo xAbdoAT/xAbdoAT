@@ -64,14 +64,14 @@
     <text class="sans col-desc" x="20" y="130">and bot services (Telegram &amp; Discord).</text>
   </g>
 
-  <!-- Column 3: Environments -->
+  <!-- Column 3: Platforms & Targets (Windows, Linux, iOS) -->
   <g transform="translate(602, 0)">
     <rect width="278" height="168" rx="8" fill="url(#matrixCardBg)" stroke="url(#matrixCardBorder)" stroke-width="1" />
     <rect x="20" y="20" width="6" height="6" rx="1.5" fill="#38BDF8" />
-    <text class="mono col-tag" x="34" y="26">03 / PLATFORMS &amp; WORKFLOW</text>
-    <text class="sans col-title" x="20" y="56">Environments &amp; Tools</text>
-    <text class="mono col-tech" x="20" y="84">Linux · macOS · Git</text>
-    <text class="sans col-desc" x="20" y="112">Unix-oriented development, command</text>
-    <text class="sans col-desc" x="20" y="130">line utilities, and version control.</text>
+    <text class="mono col-tag" x="34" y="26">03 / PLATFORMS &amp; TARGETS</text>
+    <text class="sans col-title" x="20" y="56">Windows · Linux · iOS</text>
+    <text class="mono col-tech" x="20" y="84">Swift · Git · Reversing</text>
+    <text class="sans col-desc" x="20" y="112">Desktop workflows, Swift iOS tooling,</text>
+    <text class="sans col-desc" x="20" y="130">and reverse engineering exploration.</text>
   </g>
 </svg>
