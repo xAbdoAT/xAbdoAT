@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 170" width="100%" height="170" role="img" aria-label="Technical Learning &amp; Exploration Focus">
+  <title>Technical Learning &amp; Focus Matrix</title>
+  <defs>
+    <linearGradient id="matrixCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E121A" />
+      <stop offset="100%" stop-color="#121722" />
+    </linearGradient>
+    <linearGradient id="matrixCardBorder" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#283244" />
+      <stop offset="100%" stop-color="#1A202C" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', Menlo, Consolas, monospace;
+    }
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'SF Pro Display', Roboto, Helvetica, Arial, sans-serif;
+    }
+    .col-tag {
+      font-size: 10px;
+      fill: #8B82FF;
+      font-weight: 600;
+      letter-spacing: 1px;
+    }
+    .col-title {
+      font-size: 14.5px;
+      fill: #F1F5F9;
+      font-weight: 600;
+      letter-spacing: -0.2px;
+    }
+    .col-tech {
+      font-size: 12px;
+      fill: #CBD5E1;
+      font-weight: 500;
+    }
+    .col-desc {
+      font-size: 11.5px;
+      fill: #94A3B8;
+      font-weight: 400;
+    }
+  </style>
+
+  <!-- Column 1: Core Systems -->
+  <g transform="translate(0, 0)">
+    <rect width="278" height="168" rx="8" fill="url(#matrixCardBg)" stroke="url(#matrixCardBorder)" stroke-width="1" />
+    <rect x="20" y="20" width="6" height="6" rx="1.5" fill="#6366F1" />
+    <text class="mono col-tag" x="34" y="26">01 / SYSTEMS EXPLORATION</text>
+    <text class="sans col-title" x="20" y="56">Low-Level &amp; Native</text>
+    <text class="mono col-tech" x="20" y="84">C · C++ · Swift</text>
+    <text class="sans col-desc" x="20" y="112">Studying compiled execution, memory</text>
+    <text class="sans col-desc" x="20" y="130">layout, and binary fundamentals.</text>
+  </g>
+
+  <!-- Column 2: Tooling & Scripting -->
+  <g transform="translate(301, 0)">
+    <rect width="278" height="168" rx="8" fill="url(#matrixCardBg)" stroke="url(#matrixCardBorder)" stroke-width="1" />
+    <rect x="20" y="20" width="6" height="6" rx="1.5" fill="#10B981" />
+    <text class="mono col-tag" x="34" y="26">02 / AUTOMATION &amp; SCRIPTING</text>
+    <text class="sans col-title" x="20" y="56">Utilities &amp; Bots</text>
+    <text class="mono col-tech" x="20" y="84">Python · TypeScript · Shell</text>
+    <text class="sans col-desc" x="20" y="112">Building API clients, workflow tools,</text>
+    <text class="sans col-desc" x="20" y="130">and bot services (Telegram &amp; Discord).</text>
+  </g>
+
+  <!-- Column 3: Platforms & Targets (Windows, Linux, iOS) -->
+  <g transform="translate(602, 0)">
+    <rect width="278" height="168" rx="8" fill="url(#matrixCardBg)" stroke="url(#matrixCardBorder)" stroke-width="1" />
+    <rect x="20" y="20" width="6" height="6" rx="1.5" fill="#38BDF8" />
+    <text class="mono col-tag" x="34" y="26">03 / PLATFORMS &amp; TARGETS</text>
+    <text class="sans col-title" x="20" y="56">Windows · Linux · iOS</text>
+    <text class="mono col-tech" x="20" y="84">Swift · Git · Reversing</text>
+    <text class="sans col-desc" x="20" y="112">Desktop workflows, Swift iOS tooling,</text>
+    <text class="sans col-desc" x="20" y="130">and reverse engineering exploration.</text>
+  </g>
+</svg>
